@@ -11,7 +11,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Biel-JAVA" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
   <img align="center" alt="Biel-KOTLIN" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg"/>
-  <img align="center" alt="Biel-GOLANG" height="40" width="40" https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg"/>      
+  <img align="center" alt="Biel-GOLANG" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg"/>      
   
 </div>
   
