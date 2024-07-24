@@ -1,6 +1,6 @@
 ### Oi, eu sou o Gabriel 👋
 
-- 🌱 Estudando Java e Kotlin
+- 🌱 Estudando Java, Kotlin e Golang
 
 <div>
   <a href="https://github.com/zGabrielF">
