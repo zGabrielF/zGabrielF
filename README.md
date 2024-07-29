@@ -29,6 +29,4 @@ Cursando Bacharelado de Sistemas de Informação no Instituto Federal de Sergipe
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zGabrielF/zGabrielF/output/github-contribution-grid-snake.svg">
 </picture>
 
-
-![Snake animation](https://github.com/zGabrielF/zGabrielF/blob/output/github-contribution-grid-snake.svg)
   
