@@ -1,5 +1,7 @@
 ### Oi, eu sou o Gabriel 👋
 
+Cursando Bacharelado de Sistemas de Informação no Instituto Federal de Sergipe.
+
 - 🌱 Estudando Java, Kotlin e Golang
 
 <div>
