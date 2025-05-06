@@ -1,8 +1,11 @@
 ### 👋 Oi, eu sou o Gabriel de Freitas Santos
 
 🎓 Cursando Bacharelado em Sistemas de Informação no Instituto Federal de Sergipe (IFS)
+
 🎯 Focado em desenvolvimento **backend** e **mobile**
+
 💻 Estudando: **Java**, **Kotlin**, **Golang**, **Flutter**
+
 🛠️ Também explorando ferramentas como **FlutterFlow**
 
 Atualmente, estou em busca de oportunidades para adquirir experiência prática no mercado de TI, contribuindo com projetos desafiadores e inovadores. Sou apaixonado por tecnologia e tenho como objetivo me especializar no desenvolvimento de soluções eficientes e criativas.
