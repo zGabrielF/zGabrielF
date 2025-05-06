@@ -11,7 +11,7 @@ Atualmente, estou em busca de oportunidades para adquirir experiência prática 
 
 ### ✨ Vamos construir algo incrível juntos?
 
-📫 Entre em contato comigo pelo [LinkedIn]([(https://www.linkedin.com/in/gabriel-de-freitas-santos-9958a5222/]) ou me envie uma mensagem!
+📫 Entre em contato comigo pelo [LinkedIn]([https://www.linkedin.com/in/gabriel-de-freitas-santos-9958a5222/]) ou me envie uma mensagem!
 
 
 <div>
