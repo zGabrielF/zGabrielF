@@ -1,75 +1,45 @@
-<div align="center">
+### 👋 Oi, eu sou o Gabriel de Freitas Santos
 
-Olá, eu sou Gabriel de Freitas Santos 👋
+🎓 Cursando Bacharelado em Sistemas de Informação no Instituto Federal de Sergipe (IFS)
 
-Desenvolvedor Backend | Go • Java • MySQL
+🎯 Focado em desenvolvimento **backend** e **mobile**
 
-Bacharel em Sistemas de Informação pelo Instituto Federal de Sergipe (IFS),
-construindo APIs REST com foco em regras de negócio, organização e segurança.
+💻 Estudando: **Java**, **Kotlin**, **Golang**, **Flutter**
+
+🛠️ Também explorando ferramentas como **FlutterFlow**
+
+Atualmente, estou em busca de oportunidades para adquirir experiência prática no mercado de TI, contribuindo com projetos desafiadores e inovadores. Sou apaixonado por tecnologia e tenho como objetivo me especializar no desenvolvimento de soluções eficientes e criativas.
+
+🤝 Trabalho em equipe, dedicação e aprendizado contínuo fazem parte do meu dia a dia. Estou sempre disposto a colaborar, aprender e superar novos desafios.
+
+### ✨ Vamos construir algo incrível juntos?
+
+📫 Entre em contato comigo pelo [LinkedIn]([https://www.linkedin.com/in/gabriel-de-freitas-santos-9958a5222/]) ou me envie uma mensagem!
 
 
+<div>
+  <a href="https://github.com/zGabrielF">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=zGabrielF&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zGabrielF&layout=compact&langs_count=16&theme=dark"/>
+</div>
+  
+<div style="display: inline_block"><br>
+  <img align="center" alt="Biel-JAVA" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
+  <img align="center" alt="Biel-KOTLIN" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg"/>
+  <img align="center" alt="Biel-GOLANG" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg"/>      
+  
+</div>
+  
+##
 
-
-
+  <div>
+  <a href="https://www.linkedin.com/in/gabriel-de-freitas-santos-9958a5222/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-👨‍💻 Sobre mim
-
-🔭 Desenvolvendo um sistema de orçamentos para oficinas em Go + MySQL
-
-🧩 Experiência com APIs REST, JWT, transações e arquitetura em camadas
-
-🏢 Implementando isolamento de dados em um ambiente multiempresa
-
-📱 Estudando Flutter para integrar backend e aplicações mobile
-
-🚀 Buscando uma oportunidade para iniciar e evoluir profissionalmente na área de desenvolvimento
-
-🛠️ Tecnologias e ferramentas
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=go,java,mysql,flutter,git,github,postman,vscode&theme=dark" alt="Go, Java, MySQL, Flutter, Git, GitHub, Postman e VS Code" />
-</div>
-
-⭐ Projeto em destaque
-
-AutomotivoOrcamento
-
-API REST para gerenciamento de oficinas automotivas, desenvolvida em Go e MySQL.
-
-O sistema permite administrar clientes, veículos, serviços e orçamentos, contando com:
-
-autenticação por JWT;
-
-arquitetura em camadas: Controller → Service → Repository;
-
-regras de negócio e transações;
-
-upload de fotos dos orçamentos;
-
-isolamento de dados entre oficinas.
-
-Go MySQL JWT REST API Arquitetura em Camadas
-
-📊 GitHub em números
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=zGabrielF&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas do GitHub de Gabriel" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zGabrielF&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Linguagens mais utilizadas por Gabriel" />
-</div>
-
-🐍 Contribuições
-
-<picture>
+<picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zGabrielF/zGabrielF/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zGabrielF/zGabrielF/output/github-contribution-grid-snake.svg">
-  <img alt="Animação das contribuições do GitHub" src="https://raw.githubusercontent.com/zGabrielF/zGabrielF/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zGabrielF/zGabrielF/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zGabrielF/zGabrielF/output/github-contribution-grid-snake.svg">
 </picture>
 
-<div align="center">
-
-Vamos construir algo incrível juntos?
-
-Estou aberto a oportunidades, colaborações e novos desafios na área de tecnologia.
-
-</div>
+  
